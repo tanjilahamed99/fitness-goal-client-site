@@ -1,0 +1,50 @@
+[
+    {
+        "goal_name": "Weight Loss",
+        "quality": "Premium",
+        "image_url": "https://i.ibb.co/rGMdHQq/carl-barcelo-nq-UHQku-Vj3c-unsplash.jpg",
+        "price": 199,
+        "trainer": "Emily Davis",
+        "description": "Achieve your weight loss goals with a premium program led by expert trainer Emily Davis."
+    },
+    {
+        "goal_name": "Muscle Gain",
+        "quality": "Basic",
+        "image_url": "https://i.ibb.co/YWbCP0D/john-fornander-d-MWL8-V7-L8-G4-unsplash.jpg",
+        "price": 149,
+        "trainer": "John Smith",
+        "description": "Build muscle and strength with the foundational program designed by trainer John Smith."
+    },
+    {
+        "goal_name": "Strength Training",
+        "quality": "Medium",
+        "image_url": "https://i.ibb.co/1LtXBJR/nathan-dumlao-NXMZxyg-Mw8o-unsplash.jpg",
+        "price": 249,
+        "trainer": "Sarah Johnson",
+        "description": "Enhance your strength and fitness with a medium-level program led by trainer Sarah Johnson."
+    },
+    {
+        "goal_name": "Running Endurance",
+        "quality": "Premium",
+        "image_url": "https://i.ibb.co/XWn0Pqz/scott-webb-JNPvv1u8y-Rg-unsplash.jpg",
+        "price": 129,
+        "trainer": "Michael Wilson",
+        "description": "Cultivate mindfulness and wellness through yoga with trainer Alicia Roberts."
+    },
+    {
+        "goal_name": "Running Endurance",
+        "quality": "Premium",
+        "image_url": "https://i.ibb.co/mv1nNbQ/victor-freitas-Kk-YWWpurqb-E-unsplash.jpg",
+        "price": 129,
+        "trainer": "David Wilson",
+        "description": "Experience high-intensity interval training (HIIT) led by trainer David Miller."
+    },
+    {
+        "goal_name": "Pilates for Core Strength",
+        "quality": "Premium",
+        "image_url": "https://i.ibb.co/VVFMV6M/logan-weaver-lgnwvr-u76-Gd0h-P5w4-unsplash.jpg",
+        "price": 199,
+        "trainer": "Sophia Lee",
+        "description": "Strengthen your core and improve flexibility with Pilates, guided by trainer Sophia Lee."
+    }
+]
